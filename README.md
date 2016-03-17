@@ -1,2 +1,2 @@
 # FizzBuzz
-//here is working code for that FizzBuzz question that most people fail?
+here is working code for that FizzBuzz question that most people fail?
